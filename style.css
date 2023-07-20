@@ -1,0 +1,38 @@
+body {
+	background-color: black;
+	font-family: monospace;
+}
+
+.centered {
+	text-align: center;
+}
+
+.header {
+	text-align: center;
+}
+
+pre {
+	color: lime;
+	font-family: monospace;
+}
+
+h1 {
+	color: lime;
+	text-align: center;
+	font-size: 300%;
+}
+
+span {
+	text-align: center;
+}
+
+a {
+	display: block;
+	text-align: right;
+	color: #F0F;
+}
+
+p {
+	text-align: right;
+	color: #F0F;
+}
